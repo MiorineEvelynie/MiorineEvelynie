@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=36&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Raymond+Widjaja" alt="Raymond Widjaja" />
 </h1>
 
-<p>Computer Science student in BINUS University@Kemanggisan</p>
+<p>Hi👋, I'm a computer science student in BINUS University@Kemanggisan</p>
 
 <h3>Interested in :</h3>
 <ul>
