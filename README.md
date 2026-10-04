@@ -4,7 +4,7 @@
 
 <p>Computer Science student in BINUS University@Kemanggisan</p>
 
-<h3>Currently interested in :</h3>
+<h3>Interested in :</h3>
 <ul>
   <li>Data Science</li>
   <li>Data Analytics</li>
